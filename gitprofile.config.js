@@ -220,11 +220,11 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  footer: `Made by <a 
       class="text-primary" href="https://github.com/deepak814795"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Deepak Kushwaha</a>`,
 };
 
 export default config;
